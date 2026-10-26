@@ -1,0 +1,31 @@
+✓ Built build/app/outputs/flutter-apk/app-debug.apk
+I/flutter ( 8963): 00:00 +0: Capture 25 screens and complete booking, profile and promo journeys
+I/flutter ( 8963): Capturing 01-welcome
+I/flutter ( 8963): Capturing 02-login
+I/flutter ( 8963): Capturing 03-sign-up
+I/flutter ( 8963): Capturing 04-home
+I/flutter ( 8963): Capturing 05-search
+I/flutter ( 8963): Capturing 06-map
+I/flutter ( 8963): Capturing 07-map-point
+I/flutter ( 8963): Capturing 08-shop-details
+I/flutter ( 8963): Capturing 09-shop-reviews
+I/flutter ( 8963): Capturing 10-reviews
+I/flutter ( 8963): Capturing 11-booking
+I/flutter ( 8963): Capturing 12-calendar
+I/flutter ( 8963): Capturing 13-select-service
+I/flutter ( 8963): Capturing 14-select-barber
+I/flutter ( 8963): Capturing 15-barber-profile
+I/flutter ( 8963): Capturing 16-confirmation
+I/flutter ( 8963): Capturing 17-confirmed
+I/flutter ( 8963): Capturing 18-upcoming
+I/flutter ( 8963): Capturing 19-previous
+I/flutter ( 8963): Capturing 20-profile
+I/flutter ( 8963): Capturing 21-edit-profile
+I/flutter ( 8963): Capturing 22-change-password
+I/flutter ( 8963): Capturing 23-bonuses
+I/flutter ( 8963): Capturing 24-promo-code
+I/flutter ( 8963): Capturing 25-congratulations
+I/flutter ( 8963): 00:56 +1: (tearDownAll)
+All tests passed.
+I/flutter ( 8963): 00:56 +2: All tests passed!
+Leaving the application running.

@@ -1,0 +1,4 @@
+I/flutter ( 9294): Capturing 14-select-barber
+All tests passed.
+Leaving the application running.
+I/flutter ( 9294): 00:24 +2: All tests passed!
